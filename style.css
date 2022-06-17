@@ -7,9 +7,6 @@ body {
   /* background-color: black; */
   width: 75%;
   margin: auto;
-/*   display: flex;
-  justify-content: center;
-  align-items: center; */
   height: 100vh;
   background-color: black;
 }
@@ -92,7 +89,7 @@ button {
   background-color: darkcyan;
   border: none;
 }
-a {
+button a {
   text-decoration: none;
   color: whitesmoke;
 }
