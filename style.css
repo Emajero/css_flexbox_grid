@@ -7,9 +7,9 @@ body {
   /* background-color: black; */
   width: 75%;
   margin: auto;
-  display: flex;
+/*   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: center; */
   height: 100vh;
   background-color: black;
 }
@@ -85,6 +85,21 @@ button:hover {
 }
 .column3 a:hover {
   color: hsl(0, 0%, 95%);
+}
+button {
+  padding: 2em;
+  border-radius: 30px;
+  background-color: darkcyan;
+  border: none;
+}
+a {
+  text-decoration: none;
+  color: whitesmoke;
+}
+header {
+  padding: 2em;
+  display: flex;
+  justify-content: center;
 }
 @media screen and (max-width: 375px) {
   main {
