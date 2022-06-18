@@ -83,13 +83,13 @@ button:hover {
 .column3 a:hover {
   color: hsl(0, 0%, 95%);
 }
-button {
+.btn {
   padding: 2em;
   border-radius: 30px;
   background-color: darkcyan;
   border: none;
 }
-button a {
+.btn a {
   text-decoration: none;
   color: whitesmoke;
 }
